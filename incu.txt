@@ -1,0 +1,15 @@
+{
+  "content": "@everyone",
+  "embeds": [
+    {
+    "footer": {
+      "text": "Guyloutout.",  
+           "icon_url": "https://vignette.wikia.nocookie.net/spiderriders/images/d/dd/Discord.png/revision/latest?cb=20171218232913"},
+    "thumbnail": {
+      "url": "https://eu.wargaming.net/clans/media/clans/emblems/cl_121/500152121/emblem_195x195.png"},
+    "title": "info Bastion & Incursion",
+    "description": "<:incu:684064415133335569> incursion.\n\n aujourd'hui lundi 2/3/2020 \n\n 21h00 & 22h00.",
+    "color": 1499175
+  }
+ ]
+}
